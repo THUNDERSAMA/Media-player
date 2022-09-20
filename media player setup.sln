@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "media player setup", "media player setup\media player setup.vdproj", "{4BF9DE54-3124-4967-B53D-87CE5A6FD48B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BF9DE54-3124-4967-B53D-87CE5A6FD48B}.Debug|Default.ActiveCfg = Debug
+		{4BF9DE54-3124-4967-B53D-87CE5A6FD48B}.Debug|Default.Build.0 = Debug
+		{4BF9DE54-3124-4967-B53D-87CE5A6FD48B}.Release|Default.ActiveCfg = Release
+		{4BF9DE54-3124-4967-B53D-87CE5A6FD48B}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37810AF5-9339-4D1C-B3E3-3EC2D4207B9D}
+	EndGlobalSection
+EndGlobal
